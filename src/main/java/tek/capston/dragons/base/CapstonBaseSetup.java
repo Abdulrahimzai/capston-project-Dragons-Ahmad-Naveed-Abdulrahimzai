@@ -23,7 +23,7 @@ public static Logger logger;
 public CapstonBaseSetup(){
 	
 	String filePath =System.getProperty("user.dir")+"/src/main/resources/env_config.yml";
-	String log4jPath = System.getProperty("user.dir")+"\\src\\main\\resources\\log4j.properties";
+	String log4jPath = System.getProperty("user.dir")+"/src\\main/resources/log4j.properties";
 	
 	try {
 		environmentVariables =ReadYamlFiles.getInstance(filePath);
@@ -31,7 +31,7 @@ public CapstonBaseSetup(){
 		System.out.println("Failed to load enf_config property. Check your filePath:");
 		throw new RuntimeException("failed to load env_dpmfog fo;e: "+ e.getMessage());
 	}
-	logger = logger.getLogger("logger file");
+	logger = logger.getLogger("logger_file");
 	PropertyConfigurator.configure(log4jPath);
 	
 }
