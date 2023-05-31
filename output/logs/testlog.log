@@ -5525,3 +5525,414 @@
 2023-05-30 21:48:55,201 - logger file -INFO - login button was clicked successfully
 2023-05-30 21:48:55,635 - logger file -INFO - user logged in into account
 2023-05-30 21:48:55,691 - logger file -INFO - user clicked on order section
+2023-05-31 13:03:25,171 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:03:25,182 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:03:25,275 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:03:25,389 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:03:25,459 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:03:25,524 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:03:25,924 - loggerfile -INFO - user logged in into account
+2023-05-31 13:03:28,019 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:03:28,094 - loggerfile -INFO - user clicked on all Department
+2023-05-31 13:03:28,356 - loggerfile -INFO - User clicked on Electronics sidebar option
+2023-05-31 13:03:28,384 - loggerfile -INFO - Department TV & Video is present
+2023-05-31 13:03:28,424 - loggerfile -INFO - Department Video Games is present
+2023-05-31 13:03:30,403 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:03:30,479 - loggerfile -INFO - user clicked on all Department
+2023-05-31 13:03:30,817 - loggerfile -INFO - User clicked on Computers sidebar option
+2023-05-31 13:03:30,845 - loggerfile -INFO - Department Accessories is present
+2023-05-31 13:03:30,885 - loggerfile -INFO - Department Networking is present
+2023-05-31 13:03:32,862 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:03:32,937 - loggerfile -INFO - user clicked on all Department
+2023-05-31 13:03:33,253 - loggerfile -INFO - User clicked on Smart Home sidebar option
+2023-05-31 13:03:33,280 - loggerfile -INFO - Department Smart Home Lightning is present
+2023-05-31 13:03:33,321 - loggerfile -INFO - Department Plugs and Outlets is present
+2023-05-31 13:03:36,805 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:03:36,873 - loggerfile -INFO - user clicked on all Department
+2023-05-31 13:03:37,195 - loggerfile -INFO - User clicked on Sports sidebar option
+2023-05-31 13:03:37,223 - loggerfile -INFO - Department Athletic Clothing is present
+2023-05-31 13:03:37,258 - loggerfile -INFO - Department Exercise & Fitness is present
+2023-05-31 13:03:39,285 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:03:39,358 - loggerfile -INFO - user clicked on all Department
+2023-05-31 13:03:41,730 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:03:41,736 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:03:41,828 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:03:41,937 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:03:42,005 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:03:42,063 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:03:42,461 - loggerfile -INFO - user logged in into account
+2023-05-31 13:03:42,550 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:03:42,840 - loggerfile -INFO - user updated the name and the phone value
+2023-05-31 13:03:42,910 - loggerfile -INFO - user clicked on update button
+2023-05-31 13:03:43,673 - loggerfile -INFO - user profile information is updated 
+2023-05-31 13:03:45,632 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:03:45,638 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:03:45,726 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:03:45,829 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:03:45,897 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:03:45,956 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:03:46,349 - loggerfile -INFO - user logged in into account
+2023-05-31 13:03:46,430 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:03:46,493 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:03:46,565 - loggerfile -INFO - user clicked on payment method link
+2023-05-31 13:03:46,932 - loggerfile -INFO - user inter payment information
+2023-05-31 13:03:46,993 - loggerfile -INFO - user click on add card Button
+2023-05-31 13:03:47,766 - loggerfile -INFO - user add payment method
+2023-05-31 13:03:49,784 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:03:49,790 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:03:49,882 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:03:49,984 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:03:50,051 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:03:50,109 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:03:50,506 - loggerfile -INFO - user logged in into account
+2023-05-31 13:03:50,586 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:03:50,907 - loggerfile -INFO - user click on visa card
+2023-05-31 13:04:00,977 - loggerfile -INFO - user clicke on edit button
+2023-05-31 13:04:01,049 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:04:01,116 - loggerfile -INFO - user enter the card number
+2023-05-31 13:04:01,183 - loggerfile -INFO - user enter the card number
+2023-05-31 13:04:01,236 - loggerfile -INFO - user enter name
+2023-05-31 13:04:01,302 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:04:01,342 - loggerfile -INFO - user enter security code
+2023-05-31 13:04:01,389 - loggerfile -INFO - user changed the card expiration month
+2023-05-31 13:04:01,437 - loggerfile -INFO - user changed the card expiration year
+2023-05-31 13:04:01,495 - loggerfile -INFO - user clicked on add your card button
+2023-05-31 13:04:02,314 - loggerfile -INFO - user Bank information is updated
+2023-05-31 13:04:04,279 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:04:04,284 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:04:04,366 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:04:04,471 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:04:04,538 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:04:04,596 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:04:05,060 - loggerfile -INFO - user logged in into account
+2023-05-31 13:04:05,139 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:04:05,733 - loggerfile -INFO - user click on visa card
+2023-05-31 13:04:05,899 - loggerfile -INFO - user clicked on remove btt
+2023-05-31 13:04:06,006 - loggerfile -INFO -  add Debit or credit card ia Displayed
+2023-05-31 13:04:09,497 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:04:09,501 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:04:09,579 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:04:09,681 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:04:09,746 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:04:09,799 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:04:10,229 - loggerfile -INFO - user logged in into account
+2023-05-31 13:04:10,314 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:04:10,401 - loggerfile -INFO - user clicked on add address option
+2023-05-31 13:04:10,469 - loggerfile -INFO - user select country
+2023-05-31 13:04:10,547 - loggerfile -INFO - user enter fullname
+2023-05-31 13:04:10,627 - loggerfile -INFO - user enter phone number
+2023-05-31 13:04:10,715 - loggerfile -INFO - user enter street address
+2023-05-31 13:04:10,771 - loggerfile -INFO - user aprtment number
+2023-05-31 13:04:10,845 - loggerfile -INFO - user enter city
+2023-05-31 13:04:10,892 - loggerfile -INFO - user select state
+2023-05-31 13:04:10,948 - loggerfile -INFO - user enter zipcode
+2023-05-31 13:04:11,026 - loggerfile -INFO - user click on add address button 
+2023-05-31 13:04:11,869 - loggerfile -INFO - address successfully message is displayed
+2023-05-31 13:04:13,933 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:04:13,939 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:04:14,028 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:04:14,133 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:04:14,195 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:04:14,253 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:04:14,684 - loggerfile -INFO - user logged in into account
+2023-05-31 13:04:14,766 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:04:15,110 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:04:15,158 - loggerfile -INFO - user enter name
+2023-05-31 13:04:15,235 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:04:15,287 - loggerfile -INFO - user enter phone number
+2023-05-31 13:04:15,354 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:04:15,423 - loggerfile -INFO - user enter street address
+2023-05-31 13:04:15,491 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:04:15,530 - loggerfile -INFO - user enter apprtment number
+2023-05-31 13:04:15,596 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:04:15,657 - loggerfile -INFO - user enter city
+2023-05-31 13:04:15,717 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:04:15,763 - loggerfile -INFO - user enter zipcode address
+2023-05-31 13:04:15,839 - loggerfile -INFO - user clicked on addess udate button
+2023-05-31 13:04:16,582 - loggerfile -INFO - address update successfully message is displayed
+2023-05-31 13:04:18,721 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:04:18,725 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:04:18,807 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:04:18,906 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:04:18,972 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:04:19,026 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:04:19,431 - loggerfile -INFO - user logged in into account
+2023-05-31 13:04:19,508 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:04:19,563 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:04:19,824 - loggerfile -INFO - user clicked on address remove button
+2023-05-31 13:04:19,825 - loggerfile -INFO - address removed successfully
+2023-05-31 13:04:23,259 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:04:23,263 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:04:23,342 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:04:23,450 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:04:23,512 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:04:23,566 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:04:24,010 - loggerfile -INFO - user logged in into account
+2023-05-31 13:04:24,097 - loggerfile -INFO - Electronicssmart home option is selected
+2023-05-31 13:04:24,178 - loggerfile -INFO - Apex Legends item name was entered
+2023-05-31 13:04:24,233 - loggerfile -INFO - user clicked on search button
+2023-05-31 13:04:24,552 - loggerfile -INFO - user clicked on item
+2023-05-31 13:04:34,608 - loggerfile -INFO - user change the product quantity
+2023-05-31 13:04:34,943 - loggerfile -INFO - 5quantity was displayed in the cart
+2023-05-31 13:04:45,023 - loggerfile -INFO - user clicked on cart option
+2023-05-31 13:04:55,099 - loggerfile -INFO - user clicked on proced button
+2023-05-31 13:05:27,580 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:05:27,586 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:05:27,670 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:05:27,781 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:05:27,847 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:05:27,903 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:05:28,284 - loggerfile -INFO - user logged in into account
+2023-05-31 13:05:28,342 - loggerfile -INFO - user clicked on order section
+2023-05-31 13:07:31,954 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:07:31,958 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:07:32,033 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:07:32,130 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:07:32,194 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:07:32,244 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:07:33,070 - loggerfile -INFO - user logged in into account
+2023-05-31 13:07:33,143 - loggerfile -INFO - Smart Homesmart home option is selected
+2023-05-31 13:07:33,242 - loggerfile -INFO - kasa outdoor smart plug item name was entered
+2023-05-31 13:07:33,297 - loggerfile -INFO - user clicked on search button
+2023-05-31 13:07:33,716 - loggerfile -INFO - user click on item
+2023-05-31 13:07:34,039 - loggerfile -INFO - user change the product quantity
+2023-05-31 13:07:34,110 - loggerfile -INFO - 5quantity was displayed in the cart
+2023-05-31 13:07:44,175 - loggerfile -INFO - user clicked on cart option
+2023-05-31 13:07:54,249 - loggerfile -INFO - user clicked on proced button
+2023-05-31 13:08:26,697 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:08:26,702 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:08:26,783 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:08:26,884 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:08:26,948 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:08:27,004 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:08:27,454 - loggerfile -INFO - user logged in into account
+2023-05-31 13:08:27,515 - loggerfile -INFO - user clicked on order section
+2023-05-31 13:10:29,717 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:10:29,723 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:10:29,813 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:10:29,928 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:10:29,998 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:10:30,058 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:10:30,475 - loggerfile -INFO - user logged in into account
+2023-05-31 13:10:30,535 - loggerfile -INFO - user clicked on order section
+2023-05-31 13:12:32,943 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:12:32,949 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:12:33,039 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:12:33,103 - loggerfile -INFO - User clicked on create new button successfully
+2023-05-31 13:12:33,184 - loggerfile -INFO - Daragonjoh user name was entered successfully
+2023-05-31 13:12:33,267 - loggerfile -INFO - StudentOne_school90@gmail.comemail entered successfully
+2023-05-31 13:12:33,333 - loggerfile -INFO - password entered successfully
+2023-05-31 13:12:33,392 - loggerfile -INFO - Dragonsakm2e@ password entered successfully for confirmation
+2023-05-31 13:12:33,449 - loggerfile -INFO - Signup button was clicked succesfully
+2023-05-31 13:18:06,148 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:06,160 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:18:06,261 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:18:06,374 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:18:06,445 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:18:06,511 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:18:06,932 - loggerfile -INFO - user logged in into account
+2023-05-31 13:18:08,969 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:09,043 - loggerfile -INFO - user clicked on all Department
+2023-05-31 13:18:09,368 - loggerfile -INFO - User clicked on Electronics sidebar option
+2023-05-31 13:18:09,397 - loggerfile -INFO - Department TV & Video is present
+2023-05-31 13:18:09,436 - loggerfile -INFO - Department Video Games is present
+2023-05-31 13:18:11,479 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:11,556 - loggerfile -INFO - user clicked on all Department
+2023-05-31 13:18:11,890 - loggerfile -INFO - User clicked on Computers sidebar option
+2023-05-31 13:18:11,917 - loggerfile -INFO - Department Accessories is present
+2023-05-31 13:18:11,955 - loggerfile -INFO - Department Networking is present
+2023-05-31 13:18:13,979 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:14,057 - loggerfile -INFO - user clicked on all Department
+2023-05-31 13:18:14,370 - loggerfile -INFO - User clicked on Smart Home sidebar option
+2023-05-31 13:18:14,398 - loggerfile -INFO - Department Smart Home Lightning is present
+2023-05-31 13:18:14,440 - loggerfile -INFO - Department Plugs and Outlets is present
+2023-05-31 13:18:16,413 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:16,486 - loggerfile -INFO - user clicked on all Department
+2023-05-31 13:18:16,832 - loggerfile -INFO - User clicked on Sports sidebar option
+2023-05-31 13:18:16,863 - loggerfile -INFO - Department Athletic Clothing is present
+2023-05-31 13:18:16,899 - loggerfile -INFO - Department Exercise & Fitness is present
+2023-05-31 13:18:18,843 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:18,919 - loggerfile -INFO - user clicked on all Department
+2023-05-31 13:18:21,185 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:21,190 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:18:21,286 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:18:21,401 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:18:21,467 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:18:21,527 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:18:21,905 - loggerfile -INFO - user logged in into account
+2023-05-31 13:18:21,985 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:18:22,259 - loggerfile -INFO - user updated the name and the phone value
+2023-05-31 13:18:22,331 - loggerfile -INFO - user clicked on update button
+2023-05-31 13:18:23,167 - loggerfile -INFO - user profile information is updated 
+2023-05-31 13:18:25,161 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:25,167 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:18:25,257 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:18:25,359 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:18:25,421 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:18:25,476 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:18:25,904 - loggerfile -INFO - user logged in into account
+2023-05-31 13:18:25,986 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:18:26,044 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:18:26,116 - loggerfile -INFO - user clicked on payment method link
+2023-05-31 13:18:26,475 - loggerfile -INFO - user inter payment information
+2023-05-31 13:18:26,532 - loggerfile -INFO - user click on add card Button
+2023-05-31 13:18:27,362 - loggerfile -INFO - user add payment method
+2023-05-31 13:18:29,221 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:29,226 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:18:29,327 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:18:29,429 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:18:29,494 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:18:29,549 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:18:29,968 - loggerfile -INFO - user logged in into account
+2023-05-31 13:18:30,055 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:18:30,368 - loggerfile -INFO - user click on visa card
+2023-05-31 13:18:40,434 - loggerfile -INFO - user clicke on edit button
+2023-05-31 13:18:40,507 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:18:40,574 - loggerfile -INFO - user enter the card number
+2023-05-31 13:18:40,638 - loggerfile -INFO - user enter the card number
+2023-05-31 13:18:40,693 - loggerfile -INFO - user enter name
+2023-05-31 13:18:40,763 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:18:40,803 - loggerfile -INFO - user enter security code
+2023-05-31 13:18:40,850 - loggerfile -INFO - user changed the card expiration month
+2023-05-31 13:18:40,895 - loggerfile -INFO - user changed the card expiration year
+2023-05-31 13:18:40,954 - loggerfile -INFO - user clicked on add your card button
+2023-05-31 13:18:41,761 - loggerfile -INFO - user Bank information is updated
+2023-05-31 13:18:43,716 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:43,722 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:18:43,805 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:18:43,910 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:18:43,977 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:18:44,033 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:18:44,425 - loggerfile -INFO - user logged in into account
+2023-05-31 13:18:44,505 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:18:44,892 - loggerfile -INFO - user click on visa card
+2023-05-31 13:18:45,061 - loggerfile -INFO - user clicked on remove btt
+2023-05-31 13:18:45,181 - loggerfile -INFO -  add Debit or credit card ia Displayed
+2023-05-31 13:18:47,339 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:47,344 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:18:47,425 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:18:47,527 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:18:47,589 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:18:47,641 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:18:48,056 - loggerfile -INFO - user logged in into account
+2023-05-31 13:18:48,138 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:18:48,224 - loggerfile -INFO - user clicked on add address option
+2023-05-31 13:18:48,295 - loggerfile -INFO - user select country
+2023-05-31 13:18:48,376 - loggerfile -INFO - user enter fullname
+2023-05-31 13:18:48,458 - loggerfile -INFO - user enter phone number
+2023-05-31 13:18:48,545 - loggerfile -INFO - user enter street address
+2023-05-31 13:18:48,601 - loggerfile -INFO - user aprtment number
+2023-05-31 13:18:48,672 - loggerfile -INFO - user enter city
+2023-05-31 13:18:48,717 - loggerfile -INFO - user select state
+2023-05-31 13:18:48,776 - loggerfile -INFO - user enter zipcode
+2023-05-31 13:18:48,848 - loggerfile -INFO - user click on add address button 
+2023-05-31 13:18:49,610 - loggerfile -INFO - address successfully message is displayed
+2023-05-31 13:18:51,752 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:51,757 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:18:51,841 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:18:51,946 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:18:52,010 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:18:52,061 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:18:52,700 - loggerfile -INFO - user logged in into account
+2023-05-31 13:18:52,779 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:18:53,301 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:18:53,347 - loggerfile -INFO - user enter name
+2023-05-31 13:18:53,415 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:18:53,474 - loggerfile -INFO - user enter phone number
+2023-05-31 13:18:53,538 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:18:53,605 - loggerfile -INFO - user enter street address
+2023-05-31 13:18:53,665 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:18:53,703 - loggerfile -INFO - user enter apprtment number
+2023-05-31 13:18:53,764 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:18:53,822 - loggerfile -INFO - user enter city
+2023-05-31 13:18:53,885 - loggerfile -INFO - data cleared successfully
+2023-05-31 13:18:53,927 - loggerfile -INFO - user enter zipcode address
+2023-05-31 13:18:53,996 - loggerfile -INFO - user clicked on addess udate button
+2023-05-31 13:18:54,749 - loggerfile -INFO - address update successfully message is displayed
+2023-05-31 13:18:56,717 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:56,721 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:18:56,802 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:18:56,901 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:18:56,964 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:18:57,017 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:18:57,443 - loggerfile -INFO - user logged in into account
+2023-05-31 13:18:57,522 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:18:57,584 - loggerfile -INFO - user clicked on AccountOption 
+2023-05-31 13:18:57,826 - loggerfile -INFO - user clicked on address remove button
+2023-05-31 13:18:57,827 - loggerfile -INFO - address removed successfully
+2023-05-31 13:18:59,703 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:18:59,707 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:18:59,790 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:18:59,895 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:18:59,960 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:19:00,013 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:19:00,442 - loggerfile -INFO - user logged in into account
+2023-05-31 13:19:00,521 - loggerfile -INFO - Electronicssmart home option is selected
+2023-05-31 13:19:00,598 - loggerfile -INFO - Apex Legends item name was entered
+2023-05-31 13:19:00,648 - loggerfile -INFO - user clicked on search button
+2023-05-31 13:19:00,971 - loggerfile -INFO - user clicked on item
+2023-05-31 13:19:11,033 - loggerfile -INFO - user change the product quantity
+2023-05-31 13:19:11,315 - loggerfile -INFO - 5quantity was displayed in the cart
+2023-05-31 13:19:21,390 - loggerfile -INFO - user clicked on cart option
+2023-05-31 13:19:31,452 - loggerfile -INFO - user clicked on proced button
+2023-05-31 13:19:41,999 - loggerfile -INFO - order placed success massage displayed 
+2023-05-31 13:19:53,977 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:19:53,982 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:19:54,064 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:19:54,166 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:19:54,230 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:19:54,293 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:19:54,725 - loggerfile -INFO - user logged in into account
+2023-05-31 13:19:54,783 - loggerfile -INFO - user clicked on order section
+2023-05-31 13:19:55,127 - loggerfile -INFO - user clicked on cancel order
+2023-05-31 13:19:55,198 - loggerfile -INFO - user select the reson for cancel 
+2023-05-31 13:19:55,254 - loggerfile -INFO - user click on cancel submit button
+2023-05-31 13:19:55,491 - loggerfile -INFO - order cancel success massage displayed 
+2023-05-31 13:19:57,565 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:19:57,571 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:19:57,657 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:19:57,758 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:19:57,827 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:19:57,886 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:19:58,336 - loggerfile -INFO - user logged in into account
+2023-05-31 13:19:58,408 - loggerfile -INFO - Smart Homesmart home option is selected
+2023-05-31 13:19:58,504 - loggerfile -INFO - kasa outdoor smart plug item name was entered
+2023-05-31 13:19:58,561 - loggerfile -INFO - user clicked on search button
+2023-05-31 13:19:58,936 - loggerfile -INFO - user click on item
+2023-05-31 13:19:59,192 - loggerfile -INFO - user change the product quantity
+2023-05-31 13:19:59,488 - loggerfile -INFO - 5quantity was displayed in the cart
+2023-05-31 13:20:09,569 - loggerfile -INFO - user clicked on cart option
+2023-05-31 13:20:19,644 - loggerfile -INFO - user clicked on proced button
+2023-05-31 13:20:30,199 - loggerfile -INFO - order placed success massage displayed 
+2023-05-31 13:20:42,238 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:20:42,243 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:20:42,323 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:20:42,424 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:20:42,485 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:20:42,536 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:20:42,940 - loggerfile -INFO - user logged in into account
+2023-05-31 13:20:42,996 - loggerfile -INFO - user clicked on order section
+2023-05-31 13:20:43,503 - loggerfile -INFO - user select return reason
+2023-05-31 13:20:43,565 - loggerfile -INFO - user select the Fedix as return service
+2023-05-31 13:20:43,907 - loggerfile -INFO - order return success massage displayed 
+2023-05-31 13:20:45,835 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:20:45,839 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:20:45,919 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:20:46,021 - loggerfile -INFO - email was sent successfully
+2023-05-31 13:20:46,084 - loggerfile -INFO - password was sent successfully
+2023-05-31 13:20:46,138 - loggerfile -INFO - login button was clicked successfully
+2023-05-31 13:20:46,540 - loggerfile -INFO - user logged in into account
+2023-05-31 13:20:46,593 - loggerfile -INFO - user clicked on order section
+2023-05-31 13:20:46,998 - loggerfile -INFO - user click on review button
+2023-05-31 13:20:47,168 - loggerfile -INFO - user enter review
+2023-05-31 13:20:57,227 - loggerfile -INFO - user click on review submit button
+2023-05-31 13:20:58,041 - loggerfile -INFO - order cancel success massage displayed 
+2023-05-31 13:21:00,069 - loggerfile -INFO - Tekschool logo is present
+2023-05-31 13:21:00,073 - loggerfile -INFO - Expected and Actual Page Title are sameReact App
+2023-05-31 13:21:00,159 - loggerfile -INFO - User clicked on signin button successfully
+2023-05-31 13:21:00,215 - loggerfile -INFO - User clicked on create new button successfully
+2023-05-31 13:21:00,307 - loggerfile -INFO - Daragonjoh user name was entered successfully
+2023-05-31 13:21:00,416 - loggerfile -INFO - StudentTwo_school90@gmail.comemail entered successfully
+2023-05-31 13:21:00,480 - loggerfile -INFO - password entered successfully
+2023-05-31 13:21:00,544 - loggerfile -INFO - Dragonsakm2e@ password entered successfully for confirmation
+2023-05-31 13:21:00,597 - loggerfile -INFO - Signup button was clicked succesfully

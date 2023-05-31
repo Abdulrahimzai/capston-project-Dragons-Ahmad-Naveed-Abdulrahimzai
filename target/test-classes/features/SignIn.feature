@@ -13,4 +13,4 @@ Feature: sign
 
     Examples: 
       | name        | email                   | password       | confirmpassword |
-      | Daragonjoh | StudentOne_school90@gmail.com | Dragonsakm2e@ | Dragonsakm2e@  |
+      | Daragonjoh | StudentThree_school90@gmail.com | Dragonsakm2e@ | Dragonsakm2e@  |
